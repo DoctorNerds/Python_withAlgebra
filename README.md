@@ -36,6 +36,11 @@
    *`import matplotlib as mpl`
    *`import matplotlib.pyplot as plt`
    
+Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
+[Aula 21: Programando Álgebra Linear](https://www.youtube.com/watch?v=xlJg_xhAa9o&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=21&t=4395s)  
+Confira o exercício proposto e a solução em Python sobre este tema:
+[Numpy e Matplotlib](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/01.numpyWithMatplolib)
+   
 ## Matrizes I
 ### Funções matriciais I
 
@@ -76,6 +81,11 @@
    * `A / B`: divide elemento por elemento das matrizes A e B.
    * `k * A`: multiplica a matriz A por um escalar k.
    * `A.dot(B)`: faz a multiplicação matricial (da forma correta) entre A e B.
+
+Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
+[Aula 22: Matrizes I](https://www.youtube.com/watch?v=2ETO7lNN8F4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=22)  
+Confira o exercício proposto e a solução em Python sobre este tema:
+[Matrizes I](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/02.matrices1)
   
 ## Matrizes II
 ### Funções matriciais II
@@ -124,6 +134,11 @@ plt.xlabel('Period')
 plt.ylabel('Price US Dollars')
 ```
 
+Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
+[Aula 23: Matrizes II](https://www.youtube.com/watch?v=XIzoEeTBat4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=23)  
+Confira o exercício proposto e a solução em Python sobre este tema:
+[Matrizes II](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/03.matrices2)
+
 ## Combinações Lineares
 ### Solucionando Ax=b
 
@@ -147,6 +162,9 @@ plt.ylabel('Price US Dollars')
 * Podemos criar uma função para determinar a forma escalonada reduzida de uma matriz ou utilizar funções disponíveis da linguagem utilizada no algoritmo.
 * Vamos utilizar o MatLab ao invés do Python pois ele possui um comando específico para aplicar a forma escalonada `rref` (Row Reduction Echelon Form) além de podermos aprender outra linguagem computacional.
 
+Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
+[Aula 24: Combinações Lineares](https://www.youtube.com/watch?v=QXVvM1rqQHs&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=24)  
+
 ## Debate sobre análise de dados
 ### Big Data e indicadores de performance
 
@@ -155,9 +173,10 @@ plt.ylabel('Price US Dollars')
 * Quais os tipos de gráficos e como escolher o melhor modelo para sua análise?
 * O que são os KPI e qual sua utilidade e aplicação para a análise de dados?
 
-Confira a aula que debatemos estes temas através do vídeo a seguir:
+Assista uma aula da Escola Matriz debatendo estes conceitos no link a seguir:
+[Aula 25: Debate sobre Análise de Dados](https://www.youtube.com/watch?v=lrjlomNs0yc&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=25) 
 
-## A seguir vamos apresentar cases baseados em problemas/situações reais onde podemos aplicar Álgebra Linear com Python para obter uma solução. 
+## A seguir vamos apresentar estudos de caso baseados em problemas reais onde podemos aplicar Álgebra Linear com Python para obter uma solução. 
 
 ## Eletrificação veicular
 ### Veículos elétricos
@@ -183,7 +202,8 @@ Confira a aula que debatemos estes temas através do vídeo a seguir:
 * O Brasil possui uma das matrizes energéticas mais renováveis do mundo com a energia eólica, solar, etanol e seus recursos hídricos.
 * Para que o processo da utilização de um veículo elétrico seja sustentável, a matriz energética do seu país também deve ser.
 
-Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto resolvido no Octave Online.
+Assista uma aula da Escola Matriz explicando este estudo de caso e aplicando uma solução em Octave Online no link a seguir:
+[Aula 26: Eletrificação Veicular](https://www.youtube.com/watch?v=ljUtsJp8zUA&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=26)
 
 ## Criptografia de mensagens
 ### Criptografia
@@ -205,7 +225,10 @@ Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto re
 * Garantir a segurança dos dados é fundamental para garantir os direitos dos usuários e as informações de um governo.
 * Existem muitos algoritmos desenvolvidos para proteger o conteúdo das informações, mas a técnica de criptografia é a base para entendermos como é possível proteger o conteúdo de uma mensagem de uma ponta a outra da comunicação.
 
-Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto resolvido com Python. O código deste exercício está disponível neste repositório.
+Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
+[Aula 27: Criptografia de mensagens](https://www.youtube.com/watch?v=9IpPzkiEDEU&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=27)  
+Confira o exercício proposto e a solução em Python sobre este estudo de caso:
+[Criptografia](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/04.criptography)
 
 ## Economia e mercado de ações
 ### Bolsa de valores
@@ -230,7 +253,10 @@ Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto re
 * O trader é um investidor que compra e vende ações diariamente de forma especulativa com objetivo de conseguir lucros a curto prazo.
 * O buy and hold é um investidor de longo prazo que compra ativos com o objetivo de se tornar sócio da empresa, lucrar com seu crescimento e distribuição de dividendos.
 
-Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto resolvido com Python. O código deste exercício está disponível neste repositório.
+Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
+[Aula 28: Economia e mercado de ações](https://www.youtube.com/watch?v=oH7gIm-WIl8&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=32)  
+Confira o exercício proposto e a solução em Python sobre este estudo de caso:
+[Sistema Linear](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/05.linearSystem)
 
 ## Netflix
 ### Mercado digital
@@ -254,7 +280,10 @@ Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto re
 * A Netflix recomenda filmes e séries para seus assinantes com base nas preferências de clientes que tenham um perfil próximo ao dele.
 * Se você se enquadra dentro de um perfil de usuário, a Netflix te recomenda produtos que usuários com o mesmo perfil que o seu já consumiram e aprovaram.
 
-Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto resolvido com Python. O código deste exercício está disponível neste repositório.
+Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
+[Aula 29: Netflix](https://www.youtube.com/watch?v=pYpDN3EPkZ4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=28)  
+Confira o exercício proposto e a solução em Python sobre este estudo de caso:
+[Netflix](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/06.netflix)
 
 ## Das matrizes aos sistemas lineares presentes no cotidiano
 ### Conectando os pontos
@@ -265,7 +294,8 @@ Veja neste vídeo uma explicação sobre essa teoria e um exercício proposto re
 * Através dos algoritmos podemos implementar álgebra linear em problemas reais.
 * Tudo está conectado, a matemática não é apenas teoria, mas sim toda teoria e prática.
 
-Confira a aula que debatemos estes temas através do vídeo a seguir:
+Assista uma aula da Escola Matriz debatendo estes conceitos no link a seguir:
+[Aula 30: Das matrizes aos sistemas lineares presentes no cotidiano](https://www.youtube.com/watch?v=4myZskWlAfQ&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=29)
 
 
 
