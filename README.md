@@ -2,7 +2,7 @@
 
 :us: Projects developed by Fábio Mori with Python using linear algebra functions to solve some problems.
 
-:brazil: Projetos com Python utilizando funções de Álgebra Linear para solucionar problemas desenvolvidos pelo Fábio Mori.
+:brazil: Projetos, desenvolvidos pelo Fábio Mori, com Python utilizando funções de Álgebra Linear para solucionar problemas.
 
 # Sistemas Lineares com Python
 ## Programando Álgebra Linear
