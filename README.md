@@ -1,8 +1,8 @@
 # Python_withAlgebra
 
-:us: Projects with Python using linear algebra functions to solve some problems.
+:us: Projects developed by Fábio Mori with Python using linear algebra functions to solve some problems.
 
-:brazil: Projetos com Python utilizando funções de Álgebra Linear para solucionar problemas.
+:brazil: Projetos com Python utilizando funções de Álgebra Linear para solucionar problemas desenvolvidos pelo Fábio Mori.
 
 # Sistemas Lineares com Python
 ## Programando Álgebra Linear
