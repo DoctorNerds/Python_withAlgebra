@@ -37,7 +37,7 @@
    *`import matplotlib.pyplot as plt`
    
 Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
-[Aula 21: Programando Álgebra Linear](https://www.youtube.com/watch?v=xlJg_xhAa9o&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=21&t=4395s)  
+[Aula 21: Programando Álgebra Linear](https://youtu.be/xlJg_xhAa9o)  
 Confira o exercício proposto e a solução em Python sobre este tema:
 [Numpy e Matplotlib](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/01.numpyWithMatplolib)
    
@@ -83,7 +83,7 @@ Confira o exercício proposto e a solução em Python sobre este tema:
    * `A.dot(B)`: faz a multiplicação matricial (da forma correta) entre A e B.
 
 Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
-[Aula 22: Matrizes I](https://www.youtube.com/watch?v=2ETO7lNN8F4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=22)  
+[Aula 22: Matrizes I](https://youtu.be/jimdcV9fENM)  
 Confira o exercício proposto e a solução em Python sobre este tema:
 [Matrizes I](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/02.matrices1)
   
@@ -135,7 +135,7 @@ plt.ylabel('Price US Dollars')
 ```
 
 Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
-[Aula 23: Matrizes II](https://www.youtube.com/watch?v=XIzoEeTBat4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=23)  
+[Aula 23: Matrizes II](https://youtu.be/XIzoEeTBat4)  
 Confira o exercício proposto e a solução em Python sobre este tema:
 [Matrizes II](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/03.matrices2)
 
@@ -163,7 +163,7 @@ Confira o exercício proposto e a solução em Python sobre este tema:
 * Vamos utilizar o MatLab ao invés do Python pois ele possui um comando específico para aplicar a forma escalonada `rref` (Row Reduction Echelon Form) além de podermos aprender outra linguagem computacional.
 
 Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
-[Aula 24: Combinações Lineares](https://www.youtube.com/watch?v=QXVvM1rqQHs&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=24)  
+[Aula 24: Combinações Lineares](https://youtu.be/QXVvM1rqQHs)  
 
 ## Debate sobre análise de dados
 ### Big Data e indicadores de performance
@@ -173,8 +173,8 @@ Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
 * Quais os tipos de gráficos e como escolher o melhor modelo para sua análise?
 * O que são os KPI e qual sua utilidade e aplicação para a análise de dados?
 
-Assista uma aula da Escola Matriz debatendo estes conceitos no link a seguir:
-[Aula 25: Debate sobre Análise de Dados](https://www.youtube.com/watch?v=lrjlomNs0yc&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=25) 
+Assista uma aula da Escola Matriz explicando estes conceitos no link a seguir:
+[Aula 25: Debate sobre Análise de Dados](https://youtu.be/lrjlomNs0yc) 
 
 ## A seguir vamos apresentar estudos de caso baseados em problemas reais onde podemos aplicar Álgebra Linear com Python para obter uma solução. 
 
@@ -203,7 +203,7 @@ Assista uma aula da Escola Matriz debatendo estes conceitos no link a seguir:
 * Para que o processo da utilização de um veículo elétrico seja sustentável, a matriz energética do seu país também deve ser.
 
 Assista uma aula da Escola Matriz explicando este estudo de caso e aplicando uma solução em Octave Online no link a seguir:
-[Aula 26: Eletrificação Veicular](https://www.youtube.com/watch?v=ljUtsJp8zUA&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=26)
+[Aula 26: Eletrificação Veicular](https://youtu.be/ljUtsJp8zUA)
 
 ## Criptografia de mensagens
 ### Criptografia
@@ -226,7 +226,7 @@ Assista uma aula da Escola Matriz explicando este estudo de caso e aplicando uma
 * Existem muitos algoritmos desenvolvidos para proteger o conteúdo das informações, mas a técnica de criptografia é a base para entendermos como é possível proteger o conteúdo de uma mensagem de uma ponta a outra da comunicação.
 
 Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
-[Aula 27: Criptografia de mensagens](https://www.youtube.com/watch?v=9IpPzkiEDEU&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=27)  
+[Aula 27: Criptografia de mensagens](https://youtu.be/9IpPzkiEDEU)  
 Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 [Criptografia](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/04.criptography)
 
@@ -254,7 +254,7 @@ Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 * O buy and hold é um investidor de longo prazo que compra ativos com o objetivo de se tornar sócio da empresa, lucrar com seu crescimento e distribuição de dividendos.
 
 Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
-[Aula 28: Economia e mercado de ações](https://www.youtube.com/watch?v=oH7gIm-WIl8&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=32)  
+[Aula 28: Economia e mercado de ações](https://youtu.be/oH7gIm-WIl8)  
 Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 [Sistema Linear](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/05.linearSystem)
 
@@ -281,7 +281,7 @@ Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 * Se você se enquadra dentro de um perfil de usuário, a Netflix te recomenda produtos que usuários com o mesmo perfil que o seu já consumiram e aprovaram.
 
 Assista uma aula da Escola Matriz explicando este estudo de caso no link a seguir:
-[Aula 29: Netflix](https://www.youtube.com/watch?v=pYpDN3EPkZ4&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=28)  
+[Aula 29: Netflix](https://youtu.be/pYpDN3EPkZ4)  
 Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 [Netflix](https://github.com/DoctorNerds/Python_withAlgebra/tree/main/06.netflix)
 
@@ -295,7 +295,7 @@ Confira o exercício proposto e a solução em Python sobre este estudo de caso:
 * Tudo está conectado, a matemática não é apenas teoria, mas sim toda teoria e prática.
 
 Assista uma aula da Escola Matriz debatendo estes conceitos no link a seguir:
-[Aula 30: Das matrizes aos sistemas lineares presentes no cotidiano](https://www.youtube.com/watch?v=4myZskWlAfQ&list=PLDnDDWp5Kq-Q1m2GiYw0bVaefaJCKK60W&index=29)
+[Aula 30: Das matrizes aos sistemas lineares presentes no cotidiano](https://youtu.be/4myZskWlAfQ)
 
 
 
