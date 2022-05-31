@@ -1,6 +1,6 @@
 # Python_withAlgebra
 
-:us: Projects developed by Fábio Mori, in 2020, with Python using linear algebra functions to solve some problems.
+:us: Projects developed by Fábio Mori in 2020 with Python using linear algebra functions to solve some problems.
 
 :brazil: Projetos, desenvolvidos pelo Fábio Mori, em 2020, com Python utilizando funções de Álgebra Linear para solucionar problemas.
 
